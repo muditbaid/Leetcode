@@ -1,2 +1,2 @@
 # Leetcode
-Solutions of leetcode problems in c++
+Solutions of Leetcode problems in C++ and Python3
